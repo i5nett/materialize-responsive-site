@@ -1,3 +1,4 @@
-# materialize-responsive-site
+# Pappa Guru - Official way to dance like monkeys
 A new trend of responsive layout for modern developers
-Pappa Guru - Official way to dance like monkeys
+----
+materialize-responsive-site
